@@ -1,2 +1,0 @@
-# MBG
-testing 1
